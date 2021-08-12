@@ -1,0 +1,39 @@
+body
+{
+  font-family: 'Special Elite', cursive;
+  background: #37ff48;
+}
+.main_div{
+    background: rgb(120, 118, 247);
+    padding: 10px;
+    margin-top: 15px;
+    border: 3px solid rgb(255, 255, 255);
+}
+.main_div label{
+    background: coral;
+    width: 310px;
+    padding: 10px;
+    margin-bottom: 0px;
+    box-shadow: 5px 5px 18px whitesmoke;
+}
+#camera,#result{
+    border: 2px solid whitesmoke;
+    width: 310px;
+    height: 300px;
+    box-shadow: 5px 5px 18px whitesmoke;
+}
+.main_div button{
+    width: 310px;
+    font-size: 16px;
+    box-shadow: 5px 5px 18px whitesmoke;
+    border: 1px solid;
+}
+#Result1{
+    width: 630px;
+    height: 110px;
+    margin-left: 10px;
+    box-shadow: 5px 5px 18px whitesmoke;
+}
+#res{
+    margin-left: 10px;
+}
